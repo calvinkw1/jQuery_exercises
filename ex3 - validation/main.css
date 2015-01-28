@@ -1,0 +1,9 @@
+span {
+	visibility: hidden;
+	color: red;
+}
+
+h2 {
+	display: none;
+	color: blue;
+}
